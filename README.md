@@ -23,7 +23,7 @@ _Image 1: [3d model which the real car is based on, Designed and modeled in Blen
 
 ![alt text](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/LUCCIOLA_FORMULAZIONE_2.png)
 
-_Image 2: [[Extended version of the 3d model, with Lignum vitae etc inspired wing set](https://skfb.ly/pHMq8) :_
+_Image 2: [Extended version of the 3d model, with Lignum vitae etc inspired wing set](https://skfb.ly/pHMq8) :_
 
 ![alt text](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/LUCCIOLA_FORMULAZIONE_3.png)
 
