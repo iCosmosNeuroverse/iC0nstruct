@@ -23,7 +23,7 @@ Goal
 2. Empower clients to actually design their own automobiles from the ground up, manually starting from either sketch, or nurbs based 3d modeling, starting with [Rhino3d](https://www.rhino3d.com/download/) and optionally going into [Blender3d](https://www.blender.org/).
 Note: 3d models are often powerful symbols/reprsentations of real world items, used many times for simulation in a virtual environment for testing and or fine tuning, or utilized in advertisement and blockbuster entertainment scenarios or social media ads.
 
-3. Optional: Some clients may opt to actually make a real prototype. I also provide a precise schedule and guide, according to local and otherwise available materials. You can [visit here](https://medium.com/@theomniautomobil/how-to-create-a-real-life-full-scale-hypercar-prototype-53901b355967), and look at the cost list.
+3. Optional: Some clients may opt to actually make a real prototype. I also provide a precise schedule and guide, according to local and otherwise available materials. You can [visit my guide here](https://medium.com/@theomniautomobil/how-to-create-a-real-life-full-scale-hypercar-prototype-53901b355967), and look at the cost list.
 
 Syllabus - 3 or more Saturdays or Sundays
 ========
@@ -42,10 +42,11 @@ Syllabus - 3 or more Saturdays or Sundays
 
 ## Another Weekend Day 3 - Your own car design!!!
 
-1. You will essentially free design your car concept, by following guide from (2), but deviating or creating custom shapes according to your vision.
+1. You will essentially free design your car concept, by following guide from (2), but deviating or creating custom shapes according to your vision. In my case, I followed similar guide, but instead of replicating, on my 1st try, since I was on a rush, I just created the shape I envisioned , while using the guide as a methodological toolkit. However, it can be easier if you replicated a model first, then later tried to create your own using the same or similar methodology.
 2. Note: Before you do (1), you can optionally do a basic sketch. It's fine if you can't draw too well, I can provide guidelines for basic ideas, or help you do an initial sketch.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I created this custom car design with no prior experience! You can also link to [this repository](https://github.com/iCosmosNeuroverse/iC0nstruct/) as well to help others gain the pleasure of car design.
 4. Over time you can choose to either retouch this design or create an entirely new one.
+5. Note: On your first try, you may not actually finish in one day. It may stretch to some hours after this day depending on your free time and desire.
 
 Done, and probably in only 3 weekends or so! Hopefully you're empowered with using your hands to create a car design!
 ======
