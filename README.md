@@ -1,3 +1,7 @@
+
+What is iC0nstruct?
+=========
+
 iC0nstruct with a 0 or simply i Construct, is an open caribbean platform for automobile design and beyond.
 
 iConstruct is a primarily non-ai related component in the  [iCognium](icognium.github.io) ai ecosystem. Icognium concerns physical ai imbued products including self driving cars and more.
