@@ -9,10 +9,14 @@ iC0nstruct with a digit 0 for the letter o or simply i Construct, is an open car
 iC0nstruct is a primarily non-ai related component in the  [iCognium](icognium.github.io) ai ecosystem. iCognium concerns physical ai imbued products including self driving cars and more.
 iCognium concerns self driving etc, but the car's body itself was hand designed from scratch, by Cosmos Bennett. 
 
+iC0nstruct primarily focusses on the body creation part.
 
+We may delve into Ai methods for automobile design at the end of the course, in the name of adaptability to economic changes and projections, but the client must design their automobile by hand in the beggining without the use of Ai, as a part of the empowerment process.
+
+
+_Image 0: [Full scale car designed and made from scratch by Cosmos Bennett](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/README.md)_
 
 ![alt text](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/LUCCIOLA_FULL_SCALE_GIF_5_.gif)
-_Image 0: [Full scale car designed and made from scratch by Cosmos Bennett](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/README.md)_
 
 
 _Image 1: [3d model which the real car is based on, Designed and modeled in Blender and Rhino3 by Cosmos Bennett from scratch](https://skfb.ly/pHonM) :_
@@ -25,9 +29,6 @@ _Image 2: [[Extended version of the 3d model, with Lignum vitae etc inspired win
 
 
 
-iC0nstruct primarily focusses on the body creation part.
-
-We may delve into Ai methods for automobile design at the end of the course, in the name of adaptability to economic changes and projections, but the client must design their automobile by hand in the beggining without the use of Ai, as a part of the empowerment process.
 
 
 Goal
