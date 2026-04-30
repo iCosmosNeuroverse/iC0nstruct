@@ -44,7 +44,7 @@ Syllabus - 3 or more Saturdays or Sundays
 
 ## Weekend Day 1 - Car Design Observation Weekend
 
-1. Observe around 100 different car designs on behance. Search for behance with keyword 'new hypercar concept' or 'car concept'. Ensure filter most recent is selected initially, or select as you please while trying to not repeat view designs, although that is also recommended to some degree.
+1. Observe around 100 different car designs on behance. Search for behance with keyword ['new hypercar concept'](https://www.behance.net/search/projects/hypercar%20concept?tracking_source=typeahead_search_direct&sort=published_date) or 'car concept'. Ensure filter most recent is selected initially, or select as you please while trying to not repeat view designs, although that is also recommended to some degree.
 2. The goal of the above is to try to cultivate custom design, by avoiding to directly replicate what already exists. Incidentally, there's nothing wrong if one also choses to take lessons from the lines and shape methodologies reflected in observation weekend day.
 3. Beyond this day, even after you formulate your concept, if you fancy it, you're probably going to end up viewing many designs on your own.
 
