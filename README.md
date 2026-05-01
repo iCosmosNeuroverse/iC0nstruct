@@ -6,7 +6,7 @@ iC0nstruct
 
 iC0nstruct with a digit 0 for the letter o or simply i Construct, is an open caribbean platform for automobile design and beyond.
 
-iC0nstruct is a primarily non-ai related component in the  [iCognium](icognium.github.io) ai ecosystem. iCognium concerns physical ai imbued products including self driving cars and more.
+iC0nstruct is a primarily non-ai related component in the  [iCognium](https://icognium.github.io/) ai ecosystem. iCognium concerns physical ai imbued products including self driving cars and more.
 iCognium concerns self driving etc, but the car's body itself was hand designed from scratch, by Cosmos Bennett. 
 
 iC0nstruct primarily focusses on the body creation part.
