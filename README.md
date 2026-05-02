@@ -14,7 +14,7 @@ iC0nstruct primarily focusses on the body creation part.
 We may delve into Ai methods for automobile design at the end of the course, in the name of adaptability to economic changes and projections, but the client must design their automobile by hand in the beggining without the use of Ai, as a part of the empowerment process.
 
 
-_Image 0: [Full scale car designed and made from scratch by Cosmos Bennett](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/README.md)_
+_Image 0: [Full scale car designed and made from scratch by Cosmos Bennett](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/README.md)_with "alien like" [skin](https://www.youtube.com/watch?v=fu1ef6_2FFI)
 
 ![alt text](https://github.com/iCosmosNeuroverse/JETSON_NANO_AI_COMPUTER_2025_GUIDE_AND_CODE/blob/main/LUCCIOLA_FULL_SCALE_GIF_5_.gif)
 
