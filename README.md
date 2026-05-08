@@ -73,7 +73,7 @@ There's a slight disparity between the tutorial version and the version 5 availa
 # Some tips to align with the tutorial:
 
 1. Instead of Snap, Use GridSnap to allow shape creation to snap to nearest point.
-2. Notice the Disable key is not shown when your Rhino3d 5 loads.
+2. Notice the Disable key is not shown when your Rhino3d 5 loads. Use Osnap button to reveal that Disable option.
 
 # Some general tips to help manipulate and observe your model
 
