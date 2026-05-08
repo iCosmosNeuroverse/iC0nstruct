@@ -33,7 +33,7 @@ _Image 2: [Extended version of the 3d model, with Lignum vitae etc inspired wing
 
 Goal
 =========
-1. Distill physical product design, starting with automobil design. 
+1. Help to distill physical product design, starting with automobil design. 
 2. Empower clients to actually design their own automobiles from the ground up, manually starting from either sketch, or nurbs based 3d modeling, starting with [Rhino3d](https://www.rhino3d.com/download/) and optionally going into [Blender3d](https://www.blender.org/).
 Note: 3d models are often powerful symbols/reprsentations of real world items, used many times for simulation in a virtual environment for testing and or fine tuning, or utilized in advertisement and blockbuster entertainment scenarios or social media ads.
 
@@ -52,7 +52,7 @@ Syllabus - 3 or more Saturdays or Sundays
 ## Another Weekend Day 2 - Car 3d model replication Weekend
 
 1. Download  [Rhino3d 5.0](https://www.rhino3d.com/download/archive/rhino/5/latest/).
-2. Replicate car model session by yutuber and cnc expert, _inspire_.
+2. Replicate car model session by youtuber and cnc expert, _inspire_. I'll guide you through any ux control that you may miss while observing the tutorial.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I replicated this 3d car model with no prior experience! You can also link to this repository as well to help others gain the pleasure of car design.
 
 ## Another Weekend Day 3 - Your own car design!!!
