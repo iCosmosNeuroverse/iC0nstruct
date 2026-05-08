@@ -54,7 +54,7 @@ Syllabus - 3 or more Saturdays or Sundays
 1. Download  [Rhino3d 5.0](https://www.rhino3d.com/download/archive/rhino/5/latest/).
 2. Replicate car model session by youtuber and cnc expert, _inspire_. I'll guide you through any ux control that you may miss while observing the tutorial.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I replicated this 3d car model with no prior experience! You can also link to this repository as well to help others gain the pleasure of car design.
-6. Note: This replication phase can be done in half an hour, but may take up to 2 hours for beginners or more.
+# 6. Note: This replication phase can be done in half an hour, but may take up to 2 hours for beginners or more.
 
 ## Another Weekend Day 3 - Your own car design!!!
 
@@ -62,7 +62,7 @@ Syllabus - 3 or more Saturdays or Sundays
 2. Note: Before you do (1), you can optionally do a basic sketch. It's fine if you can't draw too well, I can provide guidelines for basic ideas, or help you do an initial sketch, and help to inform your movement in 3d space to help you adhere to that sketch.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I created this custom car design with no prior experience! You can also link to [this repository](https://github.com/iCosmosNeuroverse/iC0nstruct/) as well to help others gain the pleasure of car design.
 4. Over time you can choose to either retouch this design or create an entirely new one.
-5. Note: On your first try, of designing your own car model, this can take up to 50 hours. In fact, you may not actually finish in one day. It may stretch to several tens of hours after this day depending on your free time and desire.
+# 5. Note: On your first try, of designing your own car model, this can take up to 50 hours. In fact, you may not actually finish in one day. It may stretch to several tens of hours after this day depending on your free time and desire. As an example with no prior 3d modeling experience, it took me (Cosmos) about 36 hours to model my own idea, then around another 30 hours over time to refine, around 70 hours in total, and it could still be refined more!
 
 
 Done, and probably in only 3 weekends or so! Hopefully you're empowered with using your hands to create a car design!
