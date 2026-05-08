@@ -65,7 +65,7 @@ Syllabus - 3 or more Saturdays or Sundays
 # 5. Note: On your first try, of designing your own car model, this can take up to 50 hours. In fact, you may not actually finish in one day. It may stretch to several tens of hours after this day depending on your free time and desire. As an example with no prior 3d modeling experience, it took me (Cosmos) about 36 hours to model my own idea, then around another 30 hours over time to refine, around 70 hours in total, and it could still be refined more! You can however model an overall theme in around 10 hours give or take, and fill in the rest as you allocate your time.
 
 
-Done, and probably in only 3 weekends or so! Hopefully you're empowered with using your hands to create a car design!
+Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
 
 ======
 
