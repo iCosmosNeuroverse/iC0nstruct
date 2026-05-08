@@ -64,6 +64,23 @@ Syllabus - 3 or more Saturdays or Sundays
 4. Over time you can choose to either retouch this design or create an entirely new one.
 # 5. Note: On your first try, of designing your own car model, this can take up to 50 hours. In fact, you may not actually finish in one day. It may stretch to several tens of hours after this day depending on your free time and desire. As an example with no prior 3d modeling experience, it took me (Cosmos) about 36 hours to model my own idea, then around another 30 hours over time to refine, around 70 hours in total, and it could still be refined more! You can however model an overall theme in around 10 hours give or take, and fill in the rest as you allocate your time.
 
+# 6. Note 2: See some of my quick modeling tips:
+
+# Quick modeling tips from Cosmos Bennett
+
+There's a slight disparity between the tutorial version and the version 5 available from Rhino company McNeel.
+
+# Some tips to align with the tutorial:
+
+1. Instead of Snap, Use GridSnap to allow shape creation to snap to nearest point.
+2. Notice the Disable key is not shown when your Rhino3d 5 loads.
+
+# Some general tips to help manipulate and observe your model
+
+1. To observe your model, note that you can use right mouse click and drag.
+   - For Front view and other non perspective like views, doing this will enable cam movement side to side etc.
+   - For Perspective view this will enable 3d spatial cam movement.
+
 
 Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
 
