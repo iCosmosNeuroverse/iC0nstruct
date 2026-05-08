@@ -51,7 +51,7 @@ Syllabus - 3 or more Saturdays or Sundays
 
 ## Another Weekend Day 2 - Car 3d model replication Weekend
 
-1. Download  [Rhino3d](https://www.rhino3d.com/download/).
+1. Download  [Rhino3d 5.0](https://www.rhino3d.com/download/archive/rhino/5/latest/).
 2. Replicate car model session by yutuber and cnc expert, _inspire_.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I replicated this 3d car model with no prior experience! You can also link to this repository as well to help others gain the pleasure of car design.
 
