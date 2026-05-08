@@ -54,7 +54,7 @@ Syllabus - 3 or more Saturdays or Sundays
 1. Download  [Rhino3d 5.0](https://www.rhino3d.com/download/archive/rhino/5/latest/).
 2. Replicate car model session by youtuber and cnc expert, _inspire_. I'll guide you through any ux control that you may miss while observing the tutorial.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I replicated this 3d car model with no prior experience! You can also link to this repository as well to help others gain the pleasure of car design.
-# 6. Note: This replication phase can be done in half an hour, but may take up to 2 hours for beginners or more.
+# 4. Note: This replication phase can be done in half an hour, but may take up to 2 hours for beginners or more.
 
 ## Another Weekend Day 3 - Your own car design!!!
 
