@@ -97,7 +97,28 @@ iii. The wheel wells.
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_CAR_DEFINITION_ON.png)
 
-The vehicle will have a somewhat long wheelbase, i.e. the distance between the center of the front wheel and rear wheel, is normally around 3 wheel sizes in between for exoting cars.
+The vehicle will have a somewhat long wheelbase, i.e. the distance between the center of the front wheel and rear wheel, is normally around 3 wheel sizes in between for exotic cars.
+
+4. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
+like below, the front fender area 4 lines, while the rear fender area three lines:
+
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_SIDE_FENDER_LINES.png)
+
+5. While defining your bonnet lines, you would have duplicated first the main belt line and drawn it close to your first roof line.
+The point near to the base of the roof line before the roof line is connected, you could curve along the belt line itself, while from that point to the top bumper line, the line would curve inwards closer to the center point of the bumper line. This generates clean looking language.
+
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES.png)
+
+
+6. After you've duplicated the left side, you'd have two roof lines unconnected to the body.
+To help align things well, you can first:
+i. Connect the roof lines by single lines
+ii. Extend these connection lines beyond the car's body
+iii. Finally connect the roof lines to the body by lines intersecting that you just dragged out
+
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_GREENHOUSE_WINDOW_LINES.png)
+
+
 
 Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
 
