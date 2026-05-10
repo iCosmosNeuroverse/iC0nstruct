@@ -52,7 +52,7 @@ Syllabus - 3 or more Saturdays or Sundays
 ## Another Weekend Day 2 - Car 3d model replication Weekend
 
 1. Download  [Rhino3d 5.0](https://www.rhino3d.com/download/archive/rhino/5/latest/).
-2. Replicate car model session by youtuber and cnc expert, _inspire_. If we use his tutorial directly, I'll guide you through any ux control that you may miss while observing the tutorial. However, I tend to just deliver the whole lesson from my memory, so this way we avoid switching back and fourth from a youtube video to Rhino3D.
+2. Replicate car model session by youtuber and cnc expert, _inspire_. If we use his tutorial directly, I'll guide you through any ux control that you may miss while observing the tutorial. However, I tend to just deliver the whole lesson from my memory, so this way we avoid switching back and fourth from a youtube video to Rhino3D. This actually naturall gets us to Weekend Day 3's content automatically, while bypassing the replication phase and going straight into your custom car design phase.
 3. Please post your replication to your social media with the tag #iC0nstruct course, I replicated this 3d car model with no prior experience! You can also link to this repository as well to help others gain the pleasure of car design.
 # 4. Note: This replication phase can be done in half an hour, but may take up to 2 hours for beginners or more. In my case, I didn't replicate the model in the tutorial, I used the methodology to model my own car idea, as seen in Weekend Day 3's actitivies below.
 
@@ -90,8 +90,11 @@ There's a slight disparity between the tutorial version and the version 5 availa
 
 
 3. For the session, we will start by defining the car's left side in 3d. This includes.
+
 i. The Belt line (line going from above or sitting on the front light along/over the fender, normally under the side view mirror and along the door's top, and along the rear fender's top and through to/along/sitting on the rear light).
+
 ii. The Roof line.
+
 iii. The wheel wells.
 
 
@@ -112,8 +115,11 @@ The point near to the base of the roof line before the roof line is connected, y
 
 6. After you've duplicated the left side, you'd have two roof lines unconnected to the body.
 To help align things well, you can first:
+
 i. Connect the roof lines by single lines
+
 ii. Extend these connection lines beyond the car's body
+
 iii. Finally connect the roof lines to the body by lines intersecting that you just dragged out
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_GREENHOUSE_WINDOW_LINES.png)
