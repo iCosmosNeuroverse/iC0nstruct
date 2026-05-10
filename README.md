@@ -125,7 +125,7 @@ like below, the front fender area 4 lines, while the rear fender area three line
 8. While defining your bonnet lines, you would have duplicated first the main belt line and drawn it close to your first roof line.
 The point near to the base of the roof line before the roof line is connected, you could curve along the belt line itself, while from that point to the top bumper line, the line would curve inwards closer to the center point of the bumper line. This generates clean looking language.
 
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES_.png)
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES__.png)
 
 Overall 3d model
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_COMPLETE.png)
