@@ -108,14 +108,16 @@ The vehicle will have a somewhat long wheelbase, i.e. the distance between the c
 4. Roof Lines (ignore everything except the wheel wells, roof line, belt line and two yellow lines)
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_ROOF_LINE.png)
 
-5. Belt Lines (ignore everything excelt the wheel wells, belt line nad of course the yellow, blue etc annotations)
+Note well. Roof lines will need readjustment as the car is built throughout the cycle.
+
+6. Belt Lines (ignore everything excelt the wheel wells, belt line nad of course the yellow, blue etc annotations)
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE_.png)
 
-6. Bumper Lines
+7. Bumper Lines
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
 
 
-7. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
+8. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
 like below, the front fender area 4 lines, while the rear fender area three lines:
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_SIDE_FENDER_LINES_.png)
@@ -128,7 +130,7 @@ The point near to the base of the roof line before the roof line is connected, y
 Overall 3d model
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_COMPLETE.png)
 
-This tutorial was fully written after [Daniele](https://www.instagram.com/ruby_sudan/) created her 3d side profile in our lecture/cycle. I used, then modified her side profile to create the full 3d volume. Her journey isn't finished yet, but with general enough guide, she'll get to something like this volume!! 
+This tutorial was fully written after [Danielle](https://www.instagram.com/ruby_sudan/) created her 3d side profile in our lecture/cycle. I used, then modified her side profile to create the full 3d volume. Her journey isn't finished yet, but with general enough guide, she'll get to something like this volume!! 
 
 
 
