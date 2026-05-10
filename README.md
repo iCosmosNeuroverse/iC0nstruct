@@ -108,11 +108,12 @@ The vehicle will have a somewhat long wheelbase, i.e. the distance between the c
 4. Roof Lines (ignore everything except the wheel wells, roof line, belt line and two yellow lines)
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_ROOF_LINE.png)
 
-5. Bumper Lines
+5. Belt Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE_.png)
+
+6. Bumper Lines
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
 
-6. Belt Lines
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE_.png)
 
 7. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
 like below, the front fender area 4 lines, while the rear fender area three lines:
