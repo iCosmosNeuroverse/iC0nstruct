@@ -88,12 +88,14 @@ There's a slight disparity between the tutorial version and the version 5 availa
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_CAR_DEFINITION_OFF.jpg)
 
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_CAR_DEFINITION_ON.png)
 
 3. For the session, we will start by defining the car's left side in 3d. This includes.
 i. The Belt line (line going from above or sitting on the front light along/over the fender, normally under the side view mirror and along the door's top, and along the rear fender's top and through to/along/sitting on the rear light).
 ii. The Roof line.
 iii. The wheel wells.
+
+
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_CAR_DEFINITION_ON.png)
 
 The vehicle will have a somewhat long wheelbase, i.e. the distance between the center of the front wheel and rear wheel, is normally around 3 wheel sizes in between for exoting cars.
 
