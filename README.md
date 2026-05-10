@@ -81,8 +81,21 @@ There's a slight disparity between the tutorial version and the version 5 availa
    - For Front view and other non perspective like views, doing this will enable cam movement side to side etc.
    - For Perspective view this will enable 3d spatial cam movement.
    - Of course, even in Front view, you can toggle 3d free mouse movement by toggling the spin like icon in the "Standard" tab at the top of the app window in Rhino3d 5, beside the hand like icon. Just Type Front again for eg to restore the flat view of the 3d scene for concise editing in that view. Same applies for Right, Left etc views.
+
+   
 2. Though we'll explore the tutorial without looking at InspireCNC's youtube video (since I will teach from my memory) a little quirk in the original tutorial was that InspireCNC started by modelign his side of the car in the Front view portal. We can easily start in the left view portal since we start by modeling the car's left side, to make things less confusing, so we don't need to follow that aspect of his tutorial closely.
 
+
+![alt text](https://github.com/iCosmosNeuroverse/iC0NSTRUCT_CAR_DEFINITION_OFF.png)
+
+![alt text](https://github.com/iCosmosNeuroverse/iC0NSTRUCT_CAR_DEFINITION_ON.png)
+
+3. For the session, we will start by defining the car's left side in 3d. This includes.
+i. The Belt line (line going from above or sitting on the front light along/over the fender, normally under the side view mirror and along the door's top, and along the rear fender's top and through to/along/sitting on the rear light).
+ii. The Roof line.
+iii. The wheel wells.
+
+The vehicle will have a somewhat long wheelbase, i.e. the distance between the center of the front wheel and rear wheel, is normally around 3 wheel sizes in between for exoting cars.
 
 Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
 
