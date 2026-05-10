@@ -114,11 +114,13 @@ The point near to the base of the roof line before the roof line is connected, y
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES_.png)
 
-
-6. Bumper Lines
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
+6. Roof Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_ROOF_LINE.png)
 
 7. Bumper Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
+
+8. Belt Lines
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE.png)
 
 Overall 3d model
