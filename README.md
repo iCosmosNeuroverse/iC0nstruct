@@ -107,12 +107,12 @@ The vehicle will have a somewhat long wheelbase, i.e. the distance between the c
 4. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
 like below, the front fender area 4 lines, while the rear fender area three lines:
 
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_SIDE_FENDER_LINES.png)
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_SIDE_FENDER_LINES_.png)
 
 5. While defining your bonnet lines, you would have duplicated first the main belt line and drawn it close to your first roof line.
 The point near to the base of the roof line before the roof line is connected, you could curve along the belt line itself, while from that point to the top bumper line, the line would curve inwards closer to the center point of the bumper line. This generates clean looking language.
 
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES.png)
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES_.png)
 
 
 
