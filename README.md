@@ -115,6 +115,16 @@ The point near to the base of the roof line before the roof line is connected, y
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES_.png)
 
 
+6. Bumper Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
+
+7. Bumper Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE.png)
+
+Overall 3d model
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_COMPLETE.png)
+
+
 
 
 Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
