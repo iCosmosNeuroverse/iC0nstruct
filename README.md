@@ -86,7 +86,7 @@ There's a slight disparity between the tutorial version and the version 5 availa
 2. Though we'll explore the tutorial without looking at InspireCNC's youtube video (since I will teach from my memory) a little quirk in the original tutorial was that InspireCNC started by modelign his side of the car in the Front view portal. We can easily start in the left view portal since we start by modeling the car's left side, to make things less confusing, so we don't need to follow that aspect of his tutorial closely.
 
 
-![alt text](https://github.com/iCosmosNeuroverse/iC0NSTRUCT_CAR_DEFINITION_OFF.png)
+![alt text](https://github.com/iCosmosNeuroverse/iC0NSTRUCT_CAR_DEFINITION_OFF.jpg)
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0NSTRUCT_CAR_DEFINITION_ON.png)
 
