@@ -132,7 +132,7 @@ Overall 3d model
 
 This tutorial was fully written after [Danielle](https://www.instagram.com/ruby_sudan/) created her 3d side profile in our lecture/cycle. I used, then modified her side profile (very very slightly overall) to create the full 3d volume. Her journey isn't finished yet, but with general enough guide, she'll get to something like this volume!! 
 
-[Download particularly tutorial 3d files (not the car at the very top, but the car instead represented  by the last images carnear the bottom here)](https://drive.google.com/drive/folders/1-uJbFlOWsDKTjRr4xpOPx2F_nrEPLi10).
+[Download particularly tutorial 3d files (not the car at the very top, but the car instead represented  by the last images near the bottom here)](https://drive.google.com/drive/folders/1-uJbFlOWsDKTjRr4xpOPx2F_nrEPLi10).
 
 
 
