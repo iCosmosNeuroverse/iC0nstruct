@@ -115,17 +115,6 @@ The point near to the base of the roof line before the roof line is connected, y
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES.png)
 
 
-6. After you've duplicated the left side, you'd have two roof lines unconnected to the body.
-To help align things well, you can first:
-
-i. Connect the roof lines by single lines
-
-ii. Extend these connection lines beyond the car's body
-
-iii. Finally connect the roof lines to the body by lines intersecting that you just dragged out
-
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_GREENHOUSE_WINDOW_LINES.png)
-
 
 
 Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
