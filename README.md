@@ -104,26 +104,25 @@ iii. The Roof line.
 
 The vehicle will have a somewhat long wheelbase, i.e. the distance between the center of the front wheel and rear wheel, is normally around 3 wheel sizes in between for exotic cars.
 
-4. Belt Lines
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE.png)
 
+4. Roof Lines (ignore everything except the wheel wells, roof line, belt line and two yellow lines)
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_ROOF_LINE.png)
 
-5. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
+5. Bumper Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
+
+6. Belt Lines
+![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE_.png)
+
+7. When defining your side surfaces with NetworkSurf function, a good way to split the fender to prevent warping during networksurf gen is to split
 like below, the front fender area 4 lines, while the rear fender area three lines:
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_SIDE_FENDER_LINES_.png)
 
-6. While defining your bonnet lines, you would have duplicated first the main belt line and drawn it close to your first roof line.
+8. While defining your bonnet lines, you would have duplicated first the main belt line and drawn it close to your first roof line.
 The point near to the base of the roof line before the roof line is connected, you could curve along the belt line itself, while from that point to the top bumper line, the line would curve inwards closer to the center point of the bumper line. This generates clean looking language.
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BONNET_LINES_.png)
-
-7. Roof Lines
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_ROOF_LINE.png)
-
-8. Bumper Lines
-![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BUMPER_LINE.png)
-
 
 Overall 3d model
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_COMPLETE.png)
