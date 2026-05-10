@@ -93,9 +93,11 @@ There's a slight disparity between the tutorial version and the version 5 availa
 
 i. The Belt line (line going from above or sitting on the front light along/over the fender, normally under the side view mirror and along the door's top, and along the rear fender's top and through to/along/sitting on the rear light).
 
-ii. The Roof line.
+ii. The wheel wells.
 
-iii. The wheel wells.
+iii. The Roof line.
+
+
 
 
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_CAR_DEFINITION_ON.png)
