@@ -108,7 +108,7 @@ The vehicle will have a somewhat long wheelbase, i.e. the distance between the c
 4. Roof Lines (ignore everything except the wheel wells, roof line, belt line and two yellow lines)
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_ROOF_LINE.png)
 
-5. Belt Lines
+5. Belt Lines (ignore everything excelt the wheel wells, belt line nad of course the yellow, blue etc annotations)
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_BELT_LINE_.png)
 
 6. Bumper Lines
