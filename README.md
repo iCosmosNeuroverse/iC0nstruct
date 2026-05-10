@@ -128,6 +128,7 @@ The point near to the base of the roof line before the roof line is connected, y
 Overall 3d model
 ![alt text](https://github.com/iCosmosNeuroverse/iC0nstruct/blob/main/iC0NSTRUCT_TIP_COMPLETE.png)
 
+This tutorial was fully written after [Daniele](https://www.instagram.com/ruby_sudan/) created her 3d side profile in our lecture/cycle. I used, then modified her side profile to create the full 3d volume. Her journey isn't finished yet, but with general enough guide, she'll get to something like this volume!! 
 
 
 
