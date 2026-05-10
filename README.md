@@ -80,6 +80,8 @@ There's a slight disparity between the tutorial version and the version 5 availa
 1. To observe your model, note that you can use right mouse click and drag.
    - For Front view and other non perspective like views, doing this will enable cam movement side to side etc.
    - For Perspective view this will enable 3d spatial cam movement.
+   - Of course, even in Front view, you can toggle 3d free mouse movement by toggling the spin like icon in the "Standard" tab at the top of the app window in Rhino3d 5, beside the hand like icon. Just Type Front again for eg to restore the flat view of the 3d scene for concise editing in that view. Same applies for Right, Left etc views.
+2. Though we'll explore the tutorial without looking at InspireCNC's youtube video (since I will teach from my memory) a little quirk in the original tutorial was that InspireCNC started by modelign his side of the car in the Front view portal. We can easily start in the left view portal since we start by modeling the car's left side, to make things less confusing, so we don't need to follow that aspect of his tutorial closely.
 
 
 Done, and probably in only 3 weekends or so atleast for the initial theme! Hopefully you're empowered with using your hands to create a car design!
